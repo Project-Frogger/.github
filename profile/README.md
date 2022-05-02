@@ -30,3 +30,4 @@
 - Подробнее изучить проект можно в [**базе знаний**](https://github.com/Project-Frogger/Wiki).
 - Профиль проекта на BusinessChain [**здесь**](https://businesschain.io/bch/view/projectsListCard?id=7494).
 - [**Ссылка**](https://www.figma.com/proto/TXm86pkiun9Sf7NkPUoxER/Untitled?page-id=402%3A5&node-id=405%3A67&viewport=241%2C48%2C0.11&scaling=contain&starting-point-node-id=405%3A67) на кликабельный макет плагина.
+- [**Презентация**](https://drive.google.com/file/d/11cN6os0wdJjYvrd-d1WUgPTuBZvm-WmM/view?usp=sharing) проекта.
