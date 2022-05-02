@@ -8,6 +8,7 @@
   - [Как планируем сделать мы (и какие результаты уже есть)](https://github.com/Project-Frogger/Wiki#как-планируем-сделать-мы-и-какие-результаты-уже-есть)
     - [Публикация автоматически собранных материалов](https://github.com/Project-Frogger/Wiki#публикация-автоматически-собранных-материалов)
     - [Публикация собранных вручную материалов](https://github.com/Project-Frogger/Wiki#публикация-собранных-вручную-материалов)
+  - [Полезные ссылки]()
 
 ## Введение в проект
 
@@ -23,6 +24,10 @@
 2. **База данных**, в которой обрабатывается и хранится собранная информация ([**Database**](https://github.com/Project-Frogger/Database)) - перенос в процессе
 3. **Плагин** для Wordpress, который будет являться основным интерфейсом пользователя для работы с мероприятиями ([**Plugin**](https://github.com/Project-Frogger/Plugin))
 
-Подробнее изучить проект можно в [**базе знаний**](https://github.com/Project-Frogger/Wiki).
+<br>
 
-Профиль проекта на BusinessChain [**здесь**](https://businesschain.io/bch/view/projectsListCard?id=7494).
+## Полезные ссылки
+
+- Подробнее изучить проект можно в [**базе знаний**](https://github.com/Project-Frogger/Wiki).
+- Профиль проекта на BusinessChain [**здесь**](https://businesschain.io/bch/view/projectsListCard?id=7494).
+- [**Ссылка**](https://www.figma.com/proto/TXm86pkiun9Sf7NkPUoxER/Untitled?page-id=402%3A5&node-id=405%3A67&viewport=241%2C48%2C0.11&scaling=contain&starting-point-node-id=405%3A67) на кликабельный макет плагина.
