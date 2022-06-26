@@ -21,7 +21,7 @@
 
 1. **Парсеры** сайтов-источников ([**Scraper**](https://github.com/Project-Frogger/Scraper))
 2. **База данных**, в которой обрабатывается и хранится собранная информация ([**Database**](https://github.com/Project-Frogger/Database)) - перенос в процессе
-3. **Плагин** для Wordpress, который будет являться основным интерфейсом пользователя для работы с мероприятиями ([**Plugin**](https://github.com/Project-Frogger/Plugin))
+3. **Приложение**, которое будет являться основным интерфейсом пользователя для работы с мероприятиями ([**Frogger-App**](https://github.com/Project-Frogger/frogger-app))
 
 <br>
 
